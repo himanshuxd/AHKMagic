@@ -1,0 +1,1 @@
+F7::Run "cmd /K cd %UserProfile%"
